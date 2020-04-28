@@ -1,0 +1,92 @@
+.logoImage {
+	height: "75px";
+	width: "75px";
+	margin: "5px 0px" !important;
+}
+
+.card-body-with-devicons .devicon {
+	font-size: 60px
+
+}
+
+.carousel-item, .certificate-carousel {
+	display: block !important;
+	max-width: 100%
+}
+
+.service-logo {
+	font-size: 50px;
+	color: #ec5b53;
+}
+
+.main-header .main-menu ul li a {
+	padding: 0px 0px !important
+}
+
+.portfolio-card .btn{
+
+	padding: 15px 25px !important
+}
+.section-paddingt30 {
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+}
+
+.skills-logo {
+	font-size: 96px
+}
+
+.w-padding2 {
+	padding-top: 80px !important
+}
+
+.pb-bottom {
+	padding-bottom: 20px !important
+}
+
+.pt-50 {
+	padding-top: 0px !important
+}
+
+.card-img-div {
+	border: 1px solid #e6e6e6 !important;
+}
+
+.section-padding3 {
+	padding-top: 80px !important;
+	padding-bottom: 10px !important
+}
+
+.services-padding {
+	padding-bottom: 80px !important
+}
+
+.about-area-home {
+	background-image: url('../img/about-area-home.jpg')
+}
+
+.single-brand {
+	font-size: 100px;
+	text-align: center
+}
+
+.fa-iconsOnHome {
+	padding: 20px;
+	background-color: #ec5b53;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 100%
+}
+
+.slider-height2 {
+	min-height: 250px !important
+}
+
+.social-links {
+	font-size: 20px
+}
+
+.send-cv a{
+	font-size: 50px;
+	color: black
+}
